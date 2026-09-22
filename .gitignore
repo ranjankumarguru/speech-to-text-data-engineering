@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/
+output/
+logs/
+
+*.log
+
+.env
+
+jdbc_test2.txt
+jdbc_test_output.txt
